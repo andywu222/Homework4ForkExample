@@ -1,1 +1,3 @@
 Hello, my name is Andy Wu
+Hello, our names are Andy Wu and Aaron Van Dell and we are working on
+hw4 together
